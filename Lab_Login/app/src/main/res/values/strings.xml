@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab_Login</string>
+    <string name="regi">Registro</string>
+    <string name="name">Nombres completos</string>
+    <string name="user">Usuario</string>
+    <string name="correo">eMail</string>
+    <string name="contra">Contraseña</string>
+    <string name="coonfcontr">Confirmación Contraseña</string>
+    <string name="mas">Masculino</string>
+    <string name="wome">Femenino</string>
+    <string name="regis">Registrar Usuario</string>
+    <string name="log">Login</string>
+    <string name="registro">Registro</string>
+    <string name="User">Usuario</string>
+
+</resources>
